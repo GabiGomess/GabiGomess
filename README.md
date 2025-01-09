@@ -15,7 +15,7 @@ Desde 2013 trabalhando no mercado de Tecnologia da Informação, em áreas de su
 
 
 ## 🔧 Tecnologias e Ferramentas
-| Java | Javascript | C# | Cypress | Selenium | Playwright | Robot Framework | Appium | Rest Assured | Gherkin | Cumcumber | Behavior Data Driven (BDD) | Test Driven Developmen (TDD) | Spring boot | Docker | Maven | Graddle |
+Java | Javascript | Typescript | Python | C# | Cypress | Selenium | Playwright | Robot Framework | Appium | Rest Assured | Gherkin | Cumcumber | Behavior Data Driven (BDD) | Test Driven Developmen (TDD) | Spring boot | FastAPi | Docker | Maven | Graddle
 
 ## 📈 Estatísticas do GitHub
 <img alt="Top Langs" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiGomess&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/GabiGomess" /><img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=GabiGomess&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/GabiGomess" />
