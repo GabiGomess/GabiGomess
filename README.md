@@ -1,5 +1,5 @@
 # Hello world 🌍
-## Sobre Mim
+## ✨ **Sobre Mim**
 Engenheira de testes com foco em automação.
 Desde 2013 trabalhando no mercado de Tecnologia da Informação, em áreas de suporte técnico de diferentes níveis, programação (utilizando linguagem Java e Javascript), plataforma AWS, métricas de qualidade e foco em automação de teste em plataformas web, mobile e API.
 
